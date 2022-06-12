@@ -1,2 +1,2 @@
 # Horse Survival Prediction
-Given a dataset containing all the attributes of a horse, we predict the chances of survival of a horse.
+Given a dataset containing all the attributes of a horse(its age and all the other medical conditions), we predict the chances of survival of a horse. The project contains step-wise methods to preprocess the data using techniques like encoding, null value handling, followed by making the prediction using algorithms like Decision Tree Classifier and Random Forest Classifier. 
